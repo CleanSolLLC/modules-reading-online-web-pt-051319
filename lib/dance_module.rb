@@ -17,8 +17,3 @@ module Dance
   end
 
 end
-
-
-
-
-  
